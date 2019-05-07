@@ -1,2 +1,2 @@
-# GtiTest
+# this is GitTest
 test
